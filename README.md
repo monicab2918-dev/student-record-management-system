@@ -51,8 +51,15 @@ You can modify the username and password inside the `login()` function in `stude
 ---
 
 ## 📸 Sample Output
-![Output](screenshot1.png)
-![Output](screenshot1.png)
+![Output](p1.png)
+![Output](p2.png)
+![Output](p3.png)
+![Output](p4.png)
+![Output](p5.png)
+![Output](p6.png)
+![Output](p7.png)
+![Output](p8.png)
+![Output](p9.png)
 ---
 
 ## 👩‍💻 Author
